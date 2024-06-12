@@ -4,4 +4,4 @@ def get_last(lst):
     if lst:
         return lst[-1]
     return None
-print(get_last([]))
+print(get_last([3,1,6,7,5]))

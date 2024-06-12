@@ -5,3 +5,4 @@ def print_indices(lst):
     for index in range(len(lst)):
         print(index)
 print_indices([5,1,3,8,2])
+

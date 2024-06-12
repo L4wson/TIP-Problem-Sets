@@ -15,6 +15,6 @@ def blackjack(score):
         print("Blackjack!")
 
 blackjack(24)
-blackjack(17)
+blackjack(19)
 blackjack(21)
 blackjack(10)
